@@ -1,0 +1,7 @@
+name: Guilds
+version: ${project.version}
+main: me.glaremasters.guilds.Guilds
+softdepend: [MVdWPlaceholderAPI, Placeholders, Vault, WorldEdit, WorldGuard, NameTagEdit, ServerListPlus]
+authors: [blockslayer22]
+description: Guilds
+website: https://glaremasters.me
