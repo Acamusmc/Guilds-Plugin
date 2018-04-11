@@ -5,3 +5,7 @@ softdepend: [MVdWPlaceholderAPI, Placeholders, Vault, WorldEdit, WorldGuard, Nam
 authors: [blockslayer22]
 description: Guilds
 website: https://glaremasters.me
+
+commands:
+  guild:
+    description: /guild
