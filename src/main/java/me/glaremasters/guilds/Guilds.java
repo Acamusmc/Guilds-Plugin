@@ -1,17 +1,19 @@
 package me.glaremasters.guilds;
 
+import lombok.Getter;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Guilds extends JavaPlugin {
 
+    @Getter Guilds i;
+
     @Override
     public void onEnable() {
-        // Plugin startup logic
 
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+
     }
 }
